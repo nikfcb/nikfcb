@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhil Waghmare
+- 👋 Hi, I’m Nikhil Waghmare
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on HTML/CSS/JS 
