@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nikhil Waghmare</h1>
-<h3 align="center">A passionate software enginner from India</h3>
+<p align="center">
+  <img src="./github-header-image.png">
+</p>
+
+
+<h3 align="center">A passionate techie from India</h3>
 
 - 💬 Ask me about **HTML/CSS/JavaScript**
 
